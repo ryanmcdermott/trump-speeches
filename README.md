@@ -1,7 +1,7 @@
 # trump-speeches
 
 ## What is it?
-1mb of text data taken from speeches made by Donald Trump at various points in his 2016 campaign for President of the United States.
+`speeches.txt`: 1mb of text data taken from speeches made by Donald Trump at various points in his 2016 campaign for President of the United States.
 
 ## What is this for?
 For all of your data science, machine learning, and entertainment needs.
